@@ -1,5 +1,11 @@
 # create-svelte
 
+## 2.0.0-next.44
+
+### Patch Changes
+
+- 7e51473: fix eslint error in ts starter template, add eslint and prettier ignore config
+
 ## 2.0.0-next.43
 
 ### Patch Changes
